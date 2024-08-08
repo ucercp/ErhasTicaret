@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="13.0.1" />
+    <PackageReference Include="BCrypt.Net-Next" Version="4.0.3" />
+    <PackageReference Include="Microsoft.Extensions.Logging.Abstractions" Version="8.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ErhasTicaret.Core\ErhasTicaret.Core.csproj" />
+    <ProjectReference Include="..\ErhasTicaret.Data\ErhasTicaret.Data.csproj" />
+    <ProjectReference Include="..\ErhasTicaret.Domain\ErhasTicaret.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

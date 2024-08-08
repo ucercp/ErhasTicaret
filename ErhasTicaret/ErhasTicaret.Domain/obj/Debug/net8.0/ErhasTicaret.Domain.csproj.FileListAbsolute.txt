@@ -1,0 +1,11 @@
+C:\Users\recep\source\repos\ErhasTicaret\ErhasTicaret.Domain\bin\Debug\net8.0\ErhasTicaret.Domain.deps.json
+C:\Users\recep\source\repos\ErhasTicaret\ErhasTicaret.Domain\bin\Debug\net8.0\ErhasTicaret.Domain.dll
+C:\Users\recep\source\repos\ErhasTicaret\ErhasTicaret.Domain\bin\Debug\net8.0\ErhasTicaret.Domain.pdb
+C:\Users\recep\source\repos\ErhasTicaret\ErhasTicaret.Domain\obj\Debug\net8.0\ErhasTicaret.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\recep\source\repos\ErhasTicaret\ErhasTicaret.Domain\obj\Debug\net8.0\ErhasTicaret.Domain.AssemblyInfoInputs.cache
+C:\Users\recep\source\repos\ErhasTicaret\ErhasTicaret.Domain\obj\Debug\net8.0\ErhasTicaret.Domain.AssemblyInfo.cs
+C:\Users\recep\source\repos\ErhasTicaret\ErhasTicaret.Domain\obj\Debug\net8.0\ErhasTicaret.Domain.csproj.CoreCompileInputs.cache
+C:\Users\recep\source\repos\ErhasTicaret\ErhasTicaret.Domain\obj\Debug\net8.0\ErhasTicaret.Domain.dll
+C:\Users\recep\source\repos\ErhasTicaret\ErhasTicaret.Domain\obj\Debug\net8.0\refint\ErhasTicaret.Domain.dll
+C:\Users\recep\source\repos\ErhasTicaret\ErhasTicaret.Domain\obj\Debug\net8.0\ErhasTicaret.Domain.pdb
+C:\Users\recep\source\repos\ErhasTicaret\ErhasTicaret.Domain\obj\Debug\net8.0\ref\ErhasTicaret.Domain.dll

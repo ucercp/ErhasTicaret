@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\recep\\source\\repos\\ErhasTicaret\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF044FC4-376E-40D8-8C5D-10680AC0C0F6}|ErhasTicaret.Web\\ErhasTicaret.Web.csproj|c:\\users\\recep\\source\\repos\\erhasticaret\\erhasticaret.web\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF044FC4-376E-40D8-8C5D-10680AC0C0F6}|ErhasTicaret.Web\\ErhasTicaret.Web.csproj|solutionrelative:erhasticaret.web\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF044FC4-376E-40D8-8C5D-10680AC0C0F6}|ErhasTicaret.Web\\ErhasTicaret.Web.csproj|c:\\users\\recep\\source\\repos\\erhasticaret\\erhasticaret.web\\views\\uilayout\\_uilayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF044FC4-376E-40D8-8C5D-10680AC0C0F6}|ErhasTicaret.Web\\ErhasTicaret.Web.csproj|solutionrelative:erhasticaret.web\\views\\uilayout\\_uilayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF044FC4-376E-40D8-8C5D-10680AC0C0F6}|ErhasTicaret.Web\\ErhasTicaret.Web.csproj|c:\\users\\recep\\source\\repos\\erhasticaret\\erhasticaret.web\\views\\productlist\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF044FC4-376E-40D8-8C5D-10680AC0C0F6}|ErhasTicaret.Web\\ErhasTicaret.Web.csproj|solutionrelative:erhasticaret.web\\views\\productlist\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_UILayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\recep\\source\\repos\\ErhasTicaret\\ErhasTicaret.Web\\Views\\UILayout\\_UILayout.cshtml",
+              "RelativeDocumentMoniker": "ErhasTicaret.Web\\Views\\UILayout\\_UILayout.cshtml",
+              "ToolTip": "C:\\Users\\recep\\source\\repos\\ErhasTicaret\\ErhasTicaret.Web\\Views\\UILayout\\_UILayout.cshtml",
+              "RelativeToolTip": "ErhasTicaret.Web\\Views\\UILayout\\_UILayout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-07T22:55:16.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\recep\\source\\repos\\ErhasTicaret\\ErhasTicaret.Web\\Views\\ProductList\\Index.cshtml",
+              "RelativeDocumentMoniker": "ErhasTicaret.Web\\Views\\ProductList\\Index.cshtml",
+              "ToolTip": "C:\\Users\\recep\\source\\repos\\ErhasTicaret\\ErhasTicaret.Web\\Views\\ProductList\\Index.cshtml",
+              "RelativeToolTip": "ErhasTicaret.Web\\Views\\ProductList\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-07T22:54:55.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\recep\\source\\repos\\ErhasTicaret\\ErhasTicaret.Web\\Views\\Default\\Index.cshtml",
+              "RelativeDocumentMoniker": "ErhasTicaret.Web\\Views\\Default\\Index.cshtml",
+              "ToolTip": "C:\\Users\\recep\\source\\repos\\ErhasTicaret\\ErhasTicaret.Web\\Views\\Default\\Index.cshtml",
+              "RelativeToolTip": "ErhasTicaret.Web\\Views\\Default\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-07T22:54:46.753Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

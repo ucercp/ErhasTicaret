@@ -1,0 +1,15 @@
+C:\Users\recep\source\repos\ErhasTicaret\ErhasTicaret.Core\bin\Debug\net8.0\ErhasTicaret.Core.deps.json
+C:\Users\recep\source\repos\ErhasTicaret\ErhasTicaret.Core\bin\Debug\net8.0\ErhasTicaret.Core.dll
+C:\Users\recep\source\repos\ErhasTicaret\ErhasTicaret.Core\bin\Debug\net8.0\ErhasTicaret.Core.pdb
+C:\Users\recep\source\repos\ErhasTicaret\ErhasTicaret.Core\obj\Debug\net8.0\ErhasTicaret.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\recep\source\repos\ErhasTicaret\ErhasTicaret.Core\obj\Debug\net8.0\ErhasTicaret.Core.AssemblyInfoInputs.cache
+C:\Users\recep\source\repos\ErhasTicaret\ErhasTicaret.Core\obj\Debug\net8.0\ErhasTicaret.Core.AssemblyInfo.cs
+C:\Users\recep\source\repos\ErhasTicaret\ErhasTicaret.Core\obj\Debug\net8.0\ErhasTicaret.Core.csproj.CoreCompileInputs.cache
+C:\Users\recep\source\repos\ErhasTicaret\ErhasTicaret.Core\obj\Debug\net8.0\ErhasTicaret.Core.dll
+C:\Users\recep\source\repos\ErhasTicaret\ErhasTicaret.Core\obj\Debug\net8.0\refint\ErhasTicaret.Core.dll
+C:\Users\recep\source\repos\ErhasTicaret\ErhasTicaret.Core\obj\Debug\net8.0\ErhasTicaret.Core.pdb
+C:\Users\recep\source\repos\ErhasTicaret\ErhasTicaret.Core\obj\Debug\net8.0\ref\ErhasTicaret.Core.dll
+C:\Users\recep\source\repos\ErhasTicaret\ErhasTicaret.Core\bin\Debug\net8.0\ErhasTicaret.Domain.dll
+C:\Users\recep\source\repos\ErhasTicaret\ErhasTicaret.Core\bin\Debug\net8.0\ErhasTicaret.Domain.pdb
+C:\Users\recep\source\repos\ErhasTicaret\ErhasTicaret.Core\obj\Debug\net8.0\ErhasTicaret.Core.csproj.AssemblyReference.cache
+C:\Users\recep\source\repos\ErhasTicaret\ErhasTicaret.Core\obj\Debug\net8.0\ErhasTic.3A52632F.Up2Date

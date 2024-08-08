@@ -1,0 +1,449 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\recep\\source\\repos\\ErhasTicaret\\ErhasTicaret.Web\\ErhasTicaret.Web.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\recep\\source\\repos\\ErhasTicaret\\ErhasTicaret.Core\\ErhasTicaret.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\recep\\source\\repos\\ErhasTicaret\\ErhasTicaret.Core\\ErhasTicaret.Core.csproj",
+        "projectName": "ErhasTicaret.Core",
+        "projectPath": "C:\\Users\\recep\\source\\repos\\ErhasTicaret\\ErhasTicaret.Core\\ErhasTicaret.Core.csproj",
+        "packagesPath": "C:\\Users\\recep\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\recep\\source\\repos\\ErhasTicaret\\ErhasTicaret.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\recep\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\recep\\source\\repos\\ErhasTicaret\\ErhasTicaret.Domain\\ErhasTicaret.Domain.csproj": {
+                "projectPath": "C:\\Users\\recep\\source\\repos\\ErhasTicaret\\ErhasTicaret.Domain\\ErhasTicaret.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.9.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\recep\\source\\repos\\ErhasTicaret\\ErhasTicaret.Data\\ErhasTicaret.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\recep\\source\\repos\\ErhasTicaret\\ErhasTicaret.Data\\ErhasTicaret.Data.csproj",
+        "projectName": "ErhasTicaret.Data",
+        "projectPath": "C:\\Users\\recep\\source\\repos\\ErhasTicaret\\ErhasTicaret.Data\\ErhasTicaret.Data.csproj",
+        "packagesPath": "C:\\Users\\recep\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\recep\\source\\repos\\ErhasTicaret\\ErhasTicaret.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\recep\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\recep\\source\\repos\\ErhasTicaret\\ErhasTicaret.Core\\ErhasTicaret.Core.csproj": {
+                "projectPath": "C:\\Users\\recep\\source\\repos\\ErhasTicaret\\ErhasTicaret.Core\\ErhasTicaret.Core.csproj"
+              },
+              "C:\\Users\\recep\\source\\repos\\ErhasTicaret\\ErhasTicaret.Domain\\ErhasTicaret.Domain.csproj": {
+                "projectPath": "C:\\Users\\recep\\source\\repos\\ErhasTicaret\\ErhasTicaret.Domain\\ErhasTicaret.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\recep\\source\\repos\\ErhasTicaret\\ErhasTicaret.Domain\\ErhasTicaret.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\recep\\source\\repos\\ErhasTicaret\\ErhasTicaret.Domain\\ErhasTicaret.Domain.csproj",
+        "projectName": "ErhasTicaret.Domain",
+        "projectPath": "C:\\Users\\recep\\source\\repos\\ErhasTicaret\\ErhasTicaret.Domain\\ErhasTicaret.Domain.csproj",
+        "packagesPath": "C:\\Users\\recep\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\recep\\source\\repos\\ErhasTicaret\\ErhasTicaret.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\recep\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\recep\\source\\repos\\ErhasTicaret\\ErhasTicaret.Services\\ErhasTicaret.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\recep\\source\\repos\\ErhasTicaret\\ErhasTicaret.Services\\ErhasTicaret.Services.csproj",
+        "projectName": "ErhasTicaret.Services",
+        "projectPath": "C:\\Users\\recep\\source\\repos\\ErhasTicaret\\ErhasTicaret.Services\\ErhasTicaret.Services.csproj",
+        "packagesPath": "C:\\Users\\recep\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\recep\\source\\repos\\ErhasTicaret\\ErhasTicaret.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\recep\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\recep\\source\\repos\\ErhasTicaret\\ErhasTicaret.Core\\ErhasTicaret.Core.csproj": {
+                "projectPath": "C:\\Users\\recep\\source\\repos\\ErhasTicaret\\ErhasTicaret.Core\\ErhasTicaret.Core.csproj"
+              },
+              "C:\\Users\\recep\\source\\repos\\ErhasTicaret\\ErhasTicaret.Data\\ErhasTicaret.Data.csproj": {
+                "projectPath": "C:\\Users\\recep\\source\\repos\\ErhasTicaret\\ErhasTicaret.Data\\ErhasTicaret.Data.csproj"
+              },
+              "C:\\Users\\recep\\source\\repos\\ErhasTicaret\\ErhasTicaret.Domain\\ErhasTicaret.Domain.csproj": {
+                "projectPath": "C:\\Users\\recep\\source\\repos\\ErhasTicaret\\ErhasTicaret.Domain\\ErhasTicaret.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "BCrypt.Net-Next": {
+              "target": "Package",
+              "version": "[4.0.3, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\recep\\source\\repos\\ErhasTicaret\\ErhasTicaret.Web\\ErhasTicaret.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\recep\\source\\repos\\ErhasTicaret\\ErhasTicaret.Web\\ErhasTicaret.Web.csproj",
+        "projectName": "ErhasTicaret.Web",
+        "projectPath": "C:\\Users\\recep\\source\\repos\\ErhasTicaret\\ErhasTicaret.Web\\ErhasTicaret.Web.csproj",
+        "packagesPath": "C:\\Users\\recep\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\recep\\source\\repos\\ErhasTicaret\\ErhasTicaret.Web\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\recep\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\recep\\source\\repos\\ErhasTicaret\\ErhasTicaret.Core\\ErhasTicaret.Core.csproj": {
+                "projectPath": "C:\\Users\\recep\\source\\repos\\ErhasTicaret\\ErhasTicaret.Core\\ErhasTicaret.Core.csproj"
+              },
+              "C:\\Users\\recep\\source\\repos\\ErhasTicaret\\ErhasTicaret.Domain\\ErhasTicaret.Domain.csproj": {
+                "projectPath": "C:\\Users\\recep\\source\\repos\\ErhasTicaret\\ErhasTicaret.Domain\\ErhasTicaret.Domain.csproj"
+              },
+              "C:\\Users\\recep\\source\\repos\\ErhasTicaret\\ErhasTicaret.Services\\ErhasTicaret.Services.csproj": {
+                "projectPath": "C:\\Users\\recep\\source\\repos\\ErhasTicaret\\ErhasTicaret.Services\\ErhasTicaret.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

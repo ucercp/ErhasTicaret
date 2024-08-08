@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "6kGhPJnhg/MuNTCORHE8t1/ySa5EUt+oTHvXffx96x0SkVpJj7Zy0BusrIIZJ1zutivNNoa7GuaU/QPdETM3sg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\recep\\source\\repos\\ErhasTicaret\\ErhasTicaret.Core\\ErhasTicaret.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\recep\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
+    "C:\\Users\\recep\\.nuget\\packages\\fluentvalidation\\11.9.2\\fluentvalidation.11.9.2.nupkg.sha512",
+    "C:\\Users\\recep\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\recep\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\recep\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\recep\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
