@@ -16,7 +16,7 @@ namespace ErhasTicaret.Data.Data
         {
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseSqlServer("server=DESKTOP-2H8KD1S\\SQLEXPRESS01;database=DbErhas;integrated security=true;TrustServerCertificate=True;");
+                optionsBuilder.UseSqlServer("server=MSSQL;database=DbErhas;integrated security=true;TrustServerCertificate=True;");
             }
         }
 
